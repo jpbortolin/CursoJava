@@ -41,6 +41,9 @@
 
 --- 
 
+<br>
+<br>
+
 # Versões do Java
 
 ## Resumo das versões LTS
@@ -97,6 +100,9 @@ Lançado em 2014.
 * Nova API de data/hora (java.time)
 
 ---
+
+<br>
+<br>
 
 # Plataforma Java SE
 
