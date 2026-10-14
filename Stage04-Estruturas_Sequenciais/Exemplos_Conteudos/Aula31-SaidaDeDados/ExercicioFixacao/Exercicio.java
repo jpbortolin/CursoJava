@@ -1,6 +1,7 @@
 import java.util.Locale;
 
 public class Exercicio {
+
     public static void main(String[] args) {
         String product1 = "Computer";
         String product2 = "Office desk";
@@ -30,4 +31,5 @@ public class Exercicio {
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f\n", measure);
     }
+    
 }

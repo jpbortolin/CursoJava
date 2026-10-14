@@ -1,4 +1,5 @@
-public class SaidaDeDados {
+public class Exemplos {
+
     public static void main(String[] args) {
         System.out.print("Saída de dados");
         System.out.println(" em Java");
@@ -27,4 +28,5 @@ public class SaidaDeDados {
         double renda = 3000.0;
         System.out.printf("%s tem %d anos e ganha R$ %.2f reais\n", nome, idade, renda);
     }
+    
 }

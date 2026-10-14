@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EntradaDeDados {
+public class Exemplos {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
 
