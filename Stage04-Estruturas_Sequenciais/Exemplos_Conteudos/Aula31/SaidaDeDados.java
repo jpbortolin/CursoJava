@@ -1,4 +1,4 @@
-public class Main {
+public class SaidaDeDados {
     public static void main(String[] args) {
         System.out.print("Saída de dados");
         System.out.println(" em Java");
