@@ -34,7 +34,7 @@ public class Exemplos {
 
         // Para ler um texto ATÉ A QUEBRA DE LINHA
         System.out.println("Digite DUAS frases (quando terminar uma, tecle 'Enter'): ");
-        String s1, s2, s3;
+        String s1, s2;
         
         sc.nextLine(); // Usado para quebra de linha pendente, referente aos 'sc.next ...' anteriores
         s1 = sc.nextLine();
