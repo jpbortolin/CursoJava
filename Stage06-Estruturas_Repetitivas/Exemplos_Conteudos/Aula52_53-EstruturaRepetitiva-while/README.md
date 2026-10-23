@@ -4,7 +4,7 @@
 
 > *Quando usar:* quando **não** se sabe previamente a quantidade de repetições que será realizada
 
-### Sintaxe/regra
+### Sintaxe
 
 ```java
 while (condicao) {
